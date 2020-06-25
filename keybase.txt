@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/krisjacque
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.krisjacque.com
+  * I am krisjacque (https://keybase.io/krisjacque) on keybase.
+  * I have a public key ASARcsILPRSO1hkMBDJXTcblFnbQ4QFscfVK2bbVpu8NFAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01010389276a6fb6fc3139e9f0efc3e339a84f38cb02aa9c30ebd987079888c096700a",
+            "host": "keybase.io",
+            "kid": "01201172c20b3d148ed6190c0432574dc6e51676d0e1016c71f54ad9b6d5a6ef0d140a",
+            "uid": "199acee4d852b9e7fa7009c45439e919",
+            "username": "krisjacque"
+        },
+        "service": {
+            "hostname": "www.krisjacque.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.14"
+    },
+    "ctime": 1459381332,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1459381263,
+        "hash": "77d77f7c8c33735ee5520a9b594143850d41cf52365a705218c7cacadbbfac256489897fbf1d2c40c21a7d89ae30343d1b178ece1daabeeee2922cbdf7a83eca",
+        "seqno": 425611
+    },
+    "prev": "2d7522fd1270008aad23c69d89197e37ade1e8be4ca7383dd65d984d61e62884",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEXLCCz0UjtYZDAQyV03G5RZ20OEBbHH1Stm21abvDRQKp3BheWxvYWTFAvx7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMDM4OTI3NmE2ZmI2ZmMzMTM5ZTlmMGVmYzNlMzM5YTg0ZjM4Y2IwMmFhOWMzMGViZDk4NzA3OTg4OGMwOTY3MDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTE3MmMyMGIzZDE0OGVkNjE5MGMwNDMyNTc0ZGM2ZTUxNjc2ZDBlMTAxNmM3MWY1NGFkOWI2ZDVhNmVmMGQxNDBhIiwidWlkIjoiMTk5YWNlZTRkODUyYjllN2ZhNzAwOWM0NTQzOWU5MTkiLCJ1c2VybmFtZSI6ImtyaXNqYWNxdWUifSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5rcmlzamFjcXVlLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTQifSwiY3RpbWUiOjE0NTkzODEzMzIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ1OTM4MTI2MywiaGFzaCI6Ijc3ZDc3ZjdjOGMzMzczNWVlNTUyMGE5YjU5NDE0Mzg1MGQ0MWNmNTIzNjVhNzA1MjE4YzdjYWNhZGJiZmFjMjU2NDg5ODk3ZmJmMWQyYzQwYzIxYTdkODlhZTMwMzQzZDFiMTc4ZWNlMWRhYWJlZWVlMjkyMmNiZGY3YTgzZWNhIiwic2Vxbm8iOjQyNTYxMX0sInByZXYiOiIyZDc1MjJmZDEyNzAwMDhhYWQyM2M2OWQ4OTE5N2UzN2FkZTFlOGJlNGNhNzM4M2RkNjVkOTg0ZDYxZTYyODg0Iiwic2Vxbm8iOjE1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQMaTN9Q3dgLJvkU8oejEpZB8pLK2aHl21KUEI22AFOxvEw6oE6Pti5w3b6eAbZ0oaywca6+dYDErIpsLIKLTHwmoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/krisjacque
+
+==================================================================
+
